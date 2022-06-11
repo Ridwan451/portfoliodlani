@@ -1,0 +1,21 @@
+body {
+  background-color: #f7f0fa;
+}
+
+.jumbotron {
+  padding-top: 9rem;
+  background-color: #dfc0eb;
+}
+
+#gallery {
+  background-color: #dfc0eb;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+.active,
+.bt:hover {
+  color: white;
+}
